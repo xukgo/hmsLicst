@@ -1,0 +1,8 @@
+*\.tar
+.idea/
+out/
+*.exe
+*.log
+
+go_build_*
+
